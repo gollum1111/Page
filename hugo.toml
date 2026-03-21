@@ -1,0 +1,12 @@
+baseURL = "http://83.217.201.44:1313/"
+languageCode = "en-us"
+title = "My Hugo Site"
+theme = "archie"
+
+[pagination]
+pagerSize = 5
+
+[params]
+mode = "auto"
+useCDN = false
+subtitle = "My first Hugo site with Archie"
